@@ -1,0 +1,3 @@
+2013-10-16 15:16:34 [ main:220 ] - [ ERROR ] java.lang.RuntimeException: just a test exception!2013-10-16 16:36:33 [ main:0 ] - [ ERROR ] java.lang.NullPointerException
+ 2013-10-16 16:43:46 [ main:0 ] - [ ERROR ] java.lang.NullPointerException
+ 2013-10-16 17:00:47 [ main:0 ] - [ ERROR ] java.lang.ClassNotFoundException: org.sqlite.JDBC
